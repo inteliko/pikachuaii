@@ -1,0 +1,18 @@
+/* src/App.css */
+nav {
+  padding: 1rem;
+  background-color: #f0f0f0;
+  border-bottom: 1px solid #ccc;
+}
+
+nav a {
+  margin-right: 1rem;
+  text-decoration: none;
+  font-weight: 500;
+  color: #333;
+}
+
+nav a:hover {
+  color: #007bff;
+  text-decoration: underline;
+}
